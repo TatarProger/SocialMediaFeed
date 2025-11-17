@@ -85,7 +85,7 @@
 - MVC  
 - Alamofire  
 - CoreData  
-- URLSession (загрузка изображений)  
+- KingFisher
 - Pull-to-refresh  
 - DI контейнер  
 - Простая state machine  
