@@ -6,13 +6,13 @@
 
 ## Скриншоты
 
-Лента:  
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-17 at 17 39 04" src="https://github.com/user-attachments/assets/f02a9185-2acf-406d-891e-657c56ad9fe7" />
+Лента:
+<img src="https://github.com/user-attachments/assets/f02a9185-2acf-406d-891e-657c56ad9fe7"
+     width="300" alt="Feed screenshot" />
 
-
-Лайк:  
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-17 at 17 39 26" src="https://github.com/user-attachments/assets/49bcea36-1b24-4a96-b1ab-667d62297004" />
-
+Лайк:
+<img src="https://github.com/user-attachments/assets/49bcea36-1b24-4a96-b1ab-667d62297004"
+     width="300" alt="Like screenshot" />
 
 ---
 
