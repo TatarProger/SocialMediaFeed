@@ -85,7 +85,7 @@
 - MVC  
 - Alamofire  
 - CoreData  
-- KingFisher
+- Kingfisher
 - Pull-to-refresh  
 - DI контейнер  
 - Простая state machine  
